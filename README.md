@@ -1,4 +1,18 @@
-# Aceleração Avanade - APIs: Boas práticas, proteção, Gateways e modelos
+# Avanade Acceleration - APIs: Best Practices, Protection, Gateways, and Models
+
+In this project by DIO in partnership with Avanade, I learned a lot about HATEOAS and application security.
+
+HATEOAS (Hypermedia as the Engine of Application State) is an API design approach that allows API resources to be dynamically discovered through links instead of relying on static documentation. This approach provides a more flexible API and allows API clients to adapt to changes in resources.
+
+I learned how to implement HATEOAS in practice with Spring HATEOAS, a library that allows us to add links to our API responses. I also understood how this approach can improve user experience and simplify API maintenance.
+
+In addition, I learned a lot about application security with Spring Security. I learned how to implement authentication and authorization in our APIs, as well as how to configure different levels of access for different users.
+
+With Spring Security, I learned how to create token-based authentication, allowing our clients to authenticate and receive a token that can be used in subsequent requests. I also learned how to configure different roles and permissions for users and how to restrict access to certain API endpoints.
+
+In summary, this project by DIO in partnership with Avanade provided me with a great opportunity to learn and practice important skills in API development, including the use of HATEOAS and the implementation of application security with Spring Security.
+
+# Aceleração Avanade - APIs: Boas práticas, proteção, Gateways e modelos - Português
 
 Nesse projeto da DIO em parceria com a Avanade, aprendi muito sobre HATEOAS e segurança de aplicação.
 
